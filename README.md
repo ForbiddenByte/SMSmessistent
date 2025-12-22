@@ -29,4 +29,6 @@ You will have the .apk / app inside the directory. You just have to sideload it 
 
 ### Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H1shFtswtls?si=xguQK09dPu2fXy5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1355" height="762" src="https://www.youtube.com/embed/H1shFtswtls" title="I Made An Android App To Get &amp; Use Local LLMs / ChatGPT-like Bots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
