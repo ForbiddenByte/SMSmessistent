@@ -29,4 +29,4 @@ You will have the .apk / app inside the directory. You just have to sideload it 
 
 ### Video
 
-https://youtu.be/H1shFtswtls
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H1shFtswtls?si=xguQK09dPu2fXy5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
