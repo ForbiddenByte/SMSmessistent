@@ -28,9 +28,9 @@ cd SMSmessistent
 ```
 It's Dead Simple If You Have `docker` or `podman`
 
-**How To Use github 'release' & 'package' sections**
+**How To Use github 'Releases' & 'Packages' sections**
 
-
+( Will Be Added Once I Add The Code AND Configure Everything )
 
 **Video Building**
 
