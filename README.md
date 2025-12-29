@@ -1,4 +1,4 @@
-# SMSmessistent
+# SMSmessistent Community Edition
 A Simple Android App To Get &amp; Use local LLMs
 
 ### About
@@ -19,11 +19,24 @@ But you can just build everything yourself with docker, or podman I just haven't
 
 ### Example Building Yourself
 
+It's Dead Simple If You Have `docker` or `podman`
+
 ```
 git clone https://github.com/ForbiddenByte/SMSmessistent.git
 cd SMSmessistent
 ./smsapp
 ```
+It's Dead Simple If You Have `docker` or `podman`
+
+**How To Use github 'release' & 'package' sections**
+
+
+
+**Video Building**
+
+
+[![Video Building It](https://img.youtube.com/vi/4D6YbliJeuU/0.jpg)](https://www.youtube.com/watch?v=4D6YbliJeuU)
+
 
 You will have the .apk / app inside the directory. You just have to sideload it to your phone. That's it!
 
@@ -41,7 +54,11 @@ I had trouble with the RN ecosystem so I had to program my own dependency then I
 
 I finally found a solution for that I am still a bit unsure how to more officially distribute the better version so
 
-If you're interested in:
+This Will Be The Community Version
+
+It Has All The Functionality Apart From The Memory System
+
+For The Enterprise Version & If you're interested in:
 
 Less Bugs
 
@@ -60,5 +77,3 @@ Other Requests Including A WhatsApp Version
 The Code For Everything
 
 Get In Touch
-
-You Can Find & Test It Appart From The Memory System On F-Droid & Google Play Store
