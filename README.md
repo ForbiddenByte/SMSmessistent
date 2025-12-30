@@ -44,20 +44,33 @@ You will have the .apk / app inside the directory. You just have to sideload it 
 
 [![A Quick Look](https://img.youtube.com/vi/H1shFtswtls/0.jpg)](https://www.youtube.com/watch?v=H1shFtswtls)
 
-### Disclaimer
+### Disclaimer & Rant
 
 As mentioned this is a very early / A.I. sloppy version made with React-Native
 
 It is meant as a proof of concept to me, to make sure the LLM dependency / functionality works as expected.
 
-I had trouble with the RN ecosystem so I had to program my own dependency then I once I restructured and structured everything including permanent memory I wanted to monetize it so I didn't want to open-source it.
+Since iOS doesn't provide the same access to the phone the only way to send SMS is via iMessage ( And that needs to be done with plugins )
 
-I finally found a solution for that I am still a bit unsure how to more officially distribute the better version so
+Making react-native redundant as I would still need 2 separate codebases anyways.
 
-This Will Be The Community Version
+Also I had trouble with the RN ecosystem I had to program my own dependency in Kotlin.. The memory system was in Java so it was pretty messy.
+
+Then once I restructured and structured everything including permanent memory I wanted to monetize it so I didn't want to open-source the pure Java version.
+
+This is messy I was considering just posting the typescript code but that would leave only the LLM functionality in without being able to send messages even...
+
+I finally found a solution for that I am still a bit unsure how to more officially distribute the better / pure java version so
+
+*This Will Be The Community Version*
 
 It Has All The Functionality Apart From The Memory System
 
+I Will Accept Pull Requests
+
+As Long As You Plan To Use This For Internal & Personal Use And Not Further Distribute Without Giving Credit Feel Free To Modify Tinker & Whatever I Won't Be Looking To Enforce The Licence
+
+```
 For The Enterprise Version & If you're interested in:
 
 Less Bugs
@@ -74,6 +87,7 @@ And An Overall Better Structured App
 
 Other Requests Including A WhatsApp Version
 
-The Code For Everything
+The Code & Guide For Everything
 
 Get In Touch
+```
