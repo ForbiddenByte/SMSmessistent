@@ -26,7 +26,6 @@ git clone https://github.com/ForbiddenByte/SMSmessistent.git
 cd SMSmessistent
 ./smsapp
 ```
-It's Dead Simple If You Have `docker` or `podman`
 
 **How To Use github 'Releases' & 'Packages' sections**
 
@@ -87,7 +86,7 @@ And An Overall Better Structured App
 
 Other Requests Including A WhatsApp Version
 
-The Code & Guide For Everything
+The Code & Tutorial For Everything
 
 Get In Touch
 ```
