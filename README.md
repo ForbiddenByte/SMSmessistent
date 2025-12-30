@@ -71,7 +71,7 @@ I Will Accept Pull Requests
 As Long As You Plan To Use This For Internal & Personal Use And Not Further Distribute Without Giving Credit Feel Free To Modify Tinker & Whatever I Won't Be Looking To Enforce The Licence
 
 ```
-For The Enterprise Version & If you're interested in:
+For The Enterprise Version & If You're Interested In:
 
 Less Bugs
 
